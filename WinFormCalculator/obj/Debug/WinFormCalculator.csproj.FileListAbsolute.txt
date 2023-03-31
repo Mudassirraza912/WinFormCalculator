@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.exe.config
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.exe
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.pdb
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.Form1.resources
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.Properties.Resources.resources
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.exe
+C:\Users\DELL\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.pdb
